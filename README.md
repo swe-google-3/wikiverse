@@ -16,7 +16,7 @@ After forking and cloning down your repository, run the following:
 1. `npm install`
 2. `npm run seed`
 3. `npm run server-dev`
-4. In a seperate terminal, `npm run client-dev`
+4. In a separate terminal, `npm run client-dev`
 
 ## Single Page View
 
@@ -95,4 +95,4 @@ const data = await response.json();
     - Click to view details on an article/page
     - Add a page via form inputs
     - Delete a page
-5. If you’re done but want to build out your app more, read on! There are still extra credit stretch goals.
+5. If you’re done but want to build out your app more, check out Codio! There are still extra credit stretch goals.
